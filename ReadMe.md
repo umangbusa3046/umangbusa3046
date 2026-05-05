@@ -20,15 +20,18 @@
 
 ---
 
+
 ## 🚀 Projects
 
-### 🍽️ Canteen Management System (CMS)
-- ASP.NET Core Web API  
-- Role-Based Access (Admin, User, Staff)  
-- Meal Booking System (Breakfast, Lunch, Dinner)  
-- JWT Authentication + LINQ  
+### 🍽️ Canteen Management System (CMS) – Backend
+- ASP.NET Core Web API (Monolithic Architecture)
+- Role-Based Access (Admin, User, Staff)
+- Meal Booking System (Breakfast, Lunch, Dinner)
+- Food Menu Management
+- JWT Authentication + LINQ-based operations
 
-🔗 https://github.com/umangbusa3046/CMS_Backend  
+🔗 https://github.com/umangbusa3046/CMS_Backend
+
 
 ---
 
