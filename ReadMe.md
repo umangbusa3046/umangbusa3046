@@ -1,18 +1,104 @@
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm Umang Busa</h1><br><br><p align="center"><br>  <img src="https://readme-typing-svg.herokuapp.com/?lines=Asp.Net+Core+Developer;Backend+Focused+Engineer;Future+Software+Engineer;Building+Real+World+Projects&center=true&width=500&height=45"><br></p><br><br><p align="center"><br>  <img src="https://komarev.com/ghpvc/?username=umangbusa3046&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/><br></p><br><br>---<br><br>## 🧠 About Me<br><br>- 🎓 Computer Science Engineering Student <br>- 💻 Focused on **ASP.NET Core + Backend Development**<br>- 🔥 Currently improving **DSA + System Design**<br>- ⚡ Building real-world projects (not tutorial-based)<br>- 🎯 Goal: Make real world projects<br>---<br><br>## 🛠️ Tech Stack<br><br>### 💻 Languages  <br>![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br>![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)<br><br>### ⚙️ Backend  <br>![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)<br>![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)<br>![EF Core](https://img.shields.io/badge/Entity_Framework_Core-68217A?style=for-the-badge)<br>![LINQ](https://img.shields.io/badge/LINQ-0078D4?style=for-the-badge)<br>![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)<br><br>### 🎨 Frontend  <br>![HTML](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white)<br>![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)<br>![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)<br><br>### 🗄️ Database  <br>![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)<br>![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)<br><br>---<br><br>## 🚀 Projects<br><br>### 🍽️ Canteen Management System (CMS) – Backend<br>- ASP.NET Core Web API (Monolithic Architecture)<br>- Role-Based Access (Admin, User, Staff)<br>- Meal Booking System (Breakfast, Lunch, Dinner)<br>- Food Menu Management<br>- JWT Authentication + LINQ-based operations  <br><br>🔗 https://github.com/umangbusa3046/CMS_Backend  <br><br>---<br><br><br><br>## 📊 GitHub Stats<br><br><p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api?username=umangbusa3046&show_icons=true&theme=radical" /><br>  <br/><br>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umangbusa3046&theme=radical" /><br>  <br/><br>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umangbusa3046&layout=compact&theme=radical" /><br></p><br><br>---<br><br>## 📅 Current Focus<br><br>- 🔥 Advanced ASP.NET Core  <br>- 🧠 Data Structures & Algorithms  <br>- ⚡ Backend System Design  <br>- 🎯 Placement Preparation  <br><br>---<br><br>## 📫 Connect With Me<br><br><p align="left"><br><a href="https://www.linkedin.com/in/umang-busa-5b70642b8/" target="blank"><br>  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /><br></a><br></p><br><br>---<br><br>## ⚡ Mindset<br><br>> I don’t just learn code — I build systems that solve real problems.  <br>> Focused on consistency, growth, and real-world impact.<br><br>---<br><br>## 🧠 Daily Progress<br><br>- ✅ Coding Practice  <br>- ✅ Project Development  <br>- ✅ Learning New Concepts  <br>
+<h1 align="center">Hi 👋, I'm Umang Busa</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=ASP.NET+Core+Developer;Backend+Engineer;Building+Real+World+Projects;Future+Software+Engineer&center=true&width=500&height=45">
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umang-busa-5b70642b8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:umangpatel95838@gmail.com) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=umangbusa3046&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=umangbusa3046&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=umangbusa3046&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=umangbusa3046&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=umangbusa3046&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+- 🎓 Computer Science Engineering Student  
+- 💻 Backend-focused developer (**ASP.NET Core**)  
+- 🔥 Improving **DSA + System Design**  
+- 🚀 Building real-world scalable projects  
+- 🎯 Goal: Crack top product-based company  
+
+---
+
+## 🚀 Projects
+
+### 🍽️ Canteen Management System (CMS)
+- ASP.NET Core Web API  
+- Role-Based Access (Admin, User, Staff)  
+- Meal Booking System (Breakfast, Lunch, Dinner)  
+- JWT Authentication + LINQ  
+
+🔗 https://github.com/umangbusa3046/CMS_Backend  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+
+### ⚙️ Backend  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/Entity_Framework_Core-68217A?style=for-the-badge)
+![LINQ](https://img.shields.io/badge/LINQ-0078D4?style=for-the-badge)
+
+### 🎨 Frontend  
+![HTML](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+
+### 🗄️ Database  
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umangbusa3046&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=umangbusa3046&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umangbusa3046&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 📅 Current Focus
+
+- 🔥 Advanced ASP.NET Core  
+- 🧠 Data Structures & Algorithms  
+- ⚡ Backend System Design  
+- 🎯 Placement Preparation  
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/umang-busa-5b70642b8/" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:umangpatel95838@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## ⚡ Mindset
+
+> I don’t just write code — I build systems that solve real problems.  
+> Focused on consistency, growth, and real-world impact.
+
+---
+
+## 🧠 Daily Progress
+
+- ✅ Coding Practice  
+- ✅ Project Development  
+- ✅ Learning New Concepts  
